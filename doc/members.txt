@@ -1,0 +1,29 @@
+Name: Brennan Jackson
+Account: btj9560@rit.edu
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, SQL, Javascript
+List 1 to 3 hobbies or interests: Web Development, Computer Repair, My dogs
+
+Name: Zachary "Bubba" Lichvar
+Account: znl2181@rit.edu
+Have you been on co-op? yes
+List 1 to 3 programming languages you know: Java, Python, Ruby
+List 1 to 3 hobbies or interests: Sleep, Gaming, Tinkering with Vim
+
+Name: Brandon Connors
+Account: bdc5435@rit.edu
+Have you been on co-op? no
+List 1 to 3 programming languages you know: C#,Java,PHP
+List 1 to 3 hobbies or interests: Gaming,Gundam Models,REST APIs
+
+Name: Sachi Nutulapati
+Account: vxn1520@g.rit.edu
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java Javascript HTML
+List 1 to 3 hobbies or interests: Music Cooking Watching Netflix
+
+Name: Rosis Sharma
+Account: rs9110@rit.edu
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, Javascript, SQL
+List 1 to 3 hobbies or interests: Movies, Gaming, Web Design

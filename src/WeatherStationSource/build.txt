@@ -1,0 +1,10 @@
+I wasn't sure if I was supposed to submit two programs, or
+just one that can launch either UI. I've done the former, since
+it's what the example programs do.
+
+SwingUI:
+    Build instructions:
+        javac MainSwing.java
+
+    Execution instructions:
+        java MainSwing
